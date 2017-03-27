@@ -2,7 +2,7 @@ package it.polito.tdp.alien;
 
 public class Word {
 	
-	private String alienWord;
+	private String alienWord;//ciao come stai
 	private String translation;
 	
 	public Word(String alienWord, String translation) {

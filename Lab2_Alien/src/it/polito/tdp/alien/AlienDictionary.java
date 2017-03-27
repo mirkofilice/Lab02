@@ -6,7 +6,7 @@ public class AlienDictionary {
 	
 	private List<Word> parole;
 	
-	public AlienDictionary() {
+	public AlienDictionary() {//ciao come stai
 		this.parole =new LinkedList<Word>();
 	}
 

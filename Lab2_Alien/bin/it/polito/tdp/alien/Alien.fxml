@@ -16,7 +16,7 @@
    <top>
       <Label text="Lab 1 - Alien Translator" BorderPane.alignment="CENTER">
          <BorderPane.margin>
-            <Insets bottom="10.0" />
+            <Insets bottom="10.1" />
          </BorderPane.margin>
          <font>
             <Font name="System Bold" size="13.0" />
