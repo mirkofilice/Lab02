@@ -13,8 +13,8 @@ public class AlienController {
 	AlienDictionary dictionary;
 
     @FXML
-    private ResourceBundle resources;
-
+    private ResourceBundle resources;	
+    									
     @FXML
     private URL location;
 
